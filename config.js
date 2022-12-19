@@ -50,9 +50,9 @@ global.xkey = 'YourApikey'
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
   'https://neoxr-api.herokuapp.com': 'yntkts',
-  'https://api.xteam.xyz': '6aceac403a3d479b',
+  'https://api.xteam.xyz': 'NezukoTachibana281207',
   'https://melcanz.com': 'apikeylu',
-  'https://api.lolhuman.xyz': 'apikeylu',
+  'https://api.lolhuman.xyz': 'ee99d6df5f8c5eaf7667a90d',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://api.zeks.me': 'apikeylu',
   'https://pencarikode.xyz': 'apikeylu',
